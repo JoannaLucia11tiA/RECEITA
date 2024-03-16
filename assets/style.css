@@ -26,7 +26,18 @@ h1 {
     font-size: 40px;
     color: #312e2c
     line-height: 100%;
-margin-bottom: ;
+margin-bottom: 24px;
+}
+p, li, th, td{
+    font-family: 'outfit', sans-serif;
+}
+p {
+    font-size: 16px;
+    color:#5f564d;
+    line-height: 150%;
+    margin-block: 32px;
+}
+.tempo{
 
-
+    
 }
